@@ -7,7 +7,21 @@
 - PySpark -  pip install pyspark
 
 # Python
-- Bibliotecas a serem Instaladas Python Fundamentos.
+- Pytho Fundamentos
+    - Inteiro 
+    - Float
+    - String
+    - Boolean
+- Operadores
+    - Matematica (+, -, *, /, %, **)
+    - Soma +
+    - subtração -
+    - Multiplicação *
+    - Divisão /
+    - Divisão Inteira //
+    - Resto da Divisão %
+    - Exponenciação **
+
 - Tuplas, Listas e Dicionarios
 - Jupyter
 - Pandas
