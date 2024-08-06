@@ -12,6 +12,7 @@
     - Float
     - String
     - Boolean
+
 - Operadores
     - Matematica (+, -, *, /, %, **)
     - Soma +
@@ -21,6 +22,7 @@
     - Divisão Inteira //
     - Resto da Divisão %
     - Exponenciação **
+
 - Comparação
     - <> maior e menor
     - == Igual ou is
@@ -35,7 +37,12 @@
 - Condicionais
     - If - else -  elif
 
+- Estrutura de Repetição
+    - For  - Um loop for é usado para iterar sobre uma sequência (que pode ser uma lista, uma tupla, um dicionário, um conjunto ou uma string).
+    - While - o Codigo sera executado enquanto for verdadeiro
+
 - Tuplas
+    -
 
 - Listas 
 
