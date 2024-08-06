@@ -21,10 +21,30 @@
     - Divisão Inteira //
     - Resto da Divisão %
     - Exponenciação **
+- Comparação
+    - <> maior e menor
+    - == Igual ou is
+    - != Diferente igual
+    - <= Menor Igual e >= Maior Igual
 
-- Tuplas, Listas e Dicionarios
+-  Operadores Lógicos
+    - and  - Somente sera verdadeiro se os dois for Verdadeiro
+    - Or - Sera verdadeiro se um das operações for verdeiro
+    - Not - inverte o valor Booleano da Variavel
+
+- Condicionais
+    - If - else -  elif
+
+- Tuplas
+
+- Listas 
+
+- Dicionarios
+
 - Jupyter
+
 - Pandas
+
 - PySpark
 
 # Cloud
