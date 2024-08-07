@@ -41,18 +41,37 @@
     - For  - Um loop for é usado para iterar sobre uma sequência (que pode ser uma lista, uma tupla, um dicionário, um conjunto ou uma string).
     - While - o Codigo sera executado enquanto for verdadeiro
 
+- Métodos Comuns de Strings
+    - len() - Retorna o comprimento da string 
+    - lower() - Converter todos os caracteres da string para minúsculas.
+    - upper() - Converter todos os caracteres da string para maiúsculas.
+    - strip() - Remove espaços em branco do início e do fim de uma string.
+    - split() - Divide a string em uma lista de subtrings com base em um delimitador.
+    - replace() - Substitui uma substring por outra substring.
+    - join() - Une todos os elementos de uma lista em uma string.
+    - find() - Retorna o indice da primeira ocorrência ou -1 se não encontrar.
+    - count() - Conta o número de ocorrências de uma substring.
+    - startswith() - Verifica se a string começa com uma substring.
+    - endswith() - Verifica se a string termina com uma substring.
+    - capitalize() - Coloca a primeira letra da string em maiúscula.
+    - title() - Coloca a primeira letra de cada palavra da string em maiúscula
+    
 - Tuplas
     -
 
-- Listas 
+- Listas
+    -
 
 - Dicionarios
+    -
 
 - Jupyter
+    -
 
 - Pandas
-
+    -
 - PySpark
+    - 
 
 # Cloud
 - Introdução a Nuvem
